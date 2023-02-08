@@ -211,7 +211,7 @@ li {
 /* ------------ PROJECTS ------------  */
 
 .project-Container {
-    min-height: 150vh;
+    min-height: 110vh;
     margin-top: 100px;
 }
 
@@ -281,7 +281,7 @@ height: 80%;
 
 /* ------------ CONACT ME ------------  */
 .contact-Container {
-    min-height: 80vh;
+    min-height: 50vh;
 }
 
 .contact-Container p {
